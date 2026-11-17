@@ -2,8 +2,8 @@
   <img src="./xd.gif" width="100%" height="100%"/>
 </div> 
 
-# 💫 About Me:
-💻 **Front-end Developer** with +5 years of experience specializing in **React.js ⚛️** and **Next.js ▲**, building scalable and high-performance web applications 🚀.<br><br>✨ Passionate about crafting seamless user experiences and optimizing performance ⚡.<br><br>🤝 Adept at collaborating with cross-functional teams and implementing modern web development best practices 🛠️ to drive business success 📈.<br>
+#  About Me:
+💻 **Front-end Developer** - specializing in **React.js** and **Next.js**, building scalable and high-performance web applications.<br><br>Passionate about crafting seamless user experiences and optimizing performance ⚡.<br><br>Adept at collaborating with cross-functional teams and implementing modern web development best practices to drive business success.<br>
 
 
 # 💻 Tech Stack:
