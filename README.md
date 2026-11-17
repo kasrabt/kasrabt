@@ -3,7 +3,7 @@
 </div> 
 
 # About Me:
-**Front-end Developer** - specializing in **React.js** and **Next.js**, building scalable and high-performance web applications.<br><br>Passionate about crafting seamless user experiences and optimizing performance ⚡.<br><br>Adept at collaborating with cross-functional teams and implementing modern web development best practices to drive business success.<br>
+**Front-end Developer** - specializing in **React.js** and **Next.js**, building scalable and high-performance web applications.<br><br>Passionate about crafting seamless user experiences and optimizing performance.<br><br>Adept at collaborating with cross-functional teams and implementing modern web development best practices to drive business success.<br>
 
 
 # Tech Stack:
